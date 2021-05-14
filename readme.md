@@ -1,3 +1,6 @@
+_This is a legacy project.
+Development has been moved to a new repository: https://github.com/ivpn/desktop-app_
+
 # IVPN Daemon (Windows/macOS/Linux)
 
 **IVPN Daemon** is a core module of IVPN Client software for desktop platforms (Windows/macOS/Linux) built mostly using Go language.  
